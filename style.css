@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#js-doc a{
+    display:block;
+    border-right: 1px solid #666;
+}
+#js-doc h1{
+    padding-top: 10px;
+}
+#nav-bar{
+    width: 25%;
+    float: left;
+}
+.nav-link{
+    padding: 10px 5px 10px 20px;
+    text-decoration: none;
+    color: #666;
+    border-top: 1px solid #666;
+}
+.nav-link:hover{
+    background-color: rgb(31, 26, 26);
+}
+#main-doc{
+    width: 75%;
+    float:right;
+}
+.main-section p{
+    color: #666;
+    padding: 5px;
+    text-align: justify;
+}
+.main-section ul li{
+    color: #666;
+    padding: 5px;
+    text-align: justify;
+    list-style: none;
+}
+.main-section h1{
+    padding: 10px 0 5px 0;
+}
+.main-section{
+    padding-left: 100px;
+}
+.coding{
+    color: rgb(58, 56, 56);
+    background-color: rgb(211, 194, 194);
+    padding: 3px;
+}
