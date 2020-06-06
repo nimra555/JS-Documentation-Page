@@ -1,3 +1,6 @@
+publish repo
+https://nimra555.github.io/tech-karo-projects/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nimra555/tech-karo-projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
